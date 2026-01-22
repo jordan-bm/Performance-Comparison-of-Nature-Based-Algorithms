@@ -1,7 +1,5 @@
-# # # Jordan Burmylo-Magrann
-
-# # # Whale Optimization Algorithm (WOA)
-# # # This file is designed for notebook importing.
+# Jordan Burmylo-Magrann
+# Whale Optimization Algorithm (WOA)
 
 import numpy as np
 
